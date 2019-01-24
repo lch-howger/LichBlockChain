@@ -7,7 +7,7 @@ import (
 	"math/big"
 )
 
-const BITS uint64 = 16
+const BITS uint64 = 12
 
 func GetHash(bytes []byte) [32]byte {
 	sum256 := sha256.Sum256(bytes)

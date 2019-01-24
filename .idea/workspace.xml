@@ -88,7 +88,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
     <option name="width" value="687" />
@@ -121,7 +121,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="F:/test/shanghaiTerm2_btc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -137,9 +137,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build BlockChainDemo/src">
+  <component name="RunManager" selected="Go Build.go build LichBlockChain/src">
     <configuration name="go build BlockChainDemo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="BlockChainDemo" />
+      <module name="LichBlockChain" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="PACKAGE" />
@@ -148,7 +148,7 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build BlockChainDemo/src" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="BlockChainDemo" />
+      <module name="LichBlockChain" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="PACKAGE" />
@@ -156,8 +156,17 @@
       <package value="BlockChainDemo/src" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build LichBlockChain/src" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LichBlockChain" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="LichBlockChain/src" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="BlockChainDemo" />
+      <module name="LichBlockChain" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
@@ -169,9 +178,11 @@
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Build.go build BlockChainDemo" />
       <item itemvalue="Go Build.go build BlockChainDemo/src" />
+      <item itemvalue="Go Build.go build LichBlockChain/src" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build LichBlockChain/src" />
         <item itemvalue="Go Build.go build BlockChainDemo/src" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build BlockChainDemo" />
